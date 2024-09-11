@@ -1,5 +1,5 @@
-### 🇧🇷 Olá, meu nome é Pedro Henrique.
-### 🇺🇸 Hello, my name is Pedro Henrique.
+My links:
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-ribeiro-martins-2b87b0233/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.r.martins/)
@@ -8,7 +8,3 @@
 ![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohrrm&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrrm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-🇧🇷 UI/UX designer, desenvolvimento Front-end e estudante de Graduação em Sistemas de Infomação.
-
-🇺🇸 UI/UX designer, Front-end development and Graduate student in Information Systems.
